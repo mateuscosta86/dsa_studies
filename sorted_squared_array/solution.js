@@ -1,4 +1,4 @@
-// T= O(n)
+// T = O(n)
 // S = O(n)
 const sorted_squared_array = function (list) {
   let lower = 0;

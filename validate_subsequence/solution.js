@@ -1,4 +1,4 @@
-// Time = O(n)
+// Time  = O(n)
 // Space = O(1)
 const validade = function (sequence, sub) {
   if (sub.length > sequence.length) return false;
